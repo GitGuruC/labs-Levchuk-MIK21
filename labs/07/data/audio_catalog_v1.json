@@ -1,0 +1,362 @@
+[
+  {
+    "track_id": "TRK-001",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "ambient",
+    "mood": "dark",
+    "description": "глубокий аналоговый синтезатор гулкий бас мрачный космический фон без ударных"
+  },
+  {
+    "track_id": "TRK-002",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "ambient",
+    "mood": "calm",
+    "description": "мягкое электропиано теплый пэд спокойный воздушный эмбиент для медитации"
+  },
+  {
+    "track_id": "TRK-003",
+    "split": "train",
+    "producer": "PR_BETA",
+    "category": "ambient",
+    "mood": "bright",
+    "description": "кристальные колокольчики светлый синтезатор легкий утренний текстурный фон"
+  },
+  {
+    "track_id": "TRK-004",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "hiphop",
+    "mood": "dark",
+    "description": "тяжелый прямой бит виниловый треск мрачный семпл пианино медленный темп"
+  },
+  {
+    "track_id": "TRK-005",
+    "split": "train",
+    "producer": "PR_BETA",
+    "category": "hiphop",
+    "mood": "calm",
+    "description": "расслабленный лоуфай ритм теплый бас мягкие ударные уютный инструментал"
+  },
+  {
+    "track_id": "TRK-006",
+    "split": "train",
+    "producer": "PR_BETA",
+    "category": "hiphop",
+    "mood": "bright",
+    "description": "энергичный грув фанковая гитара звонкий малый барабан позитивный ритм"
+  },
+  {
+    "track_id": "TRK-007",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "cinematic",
+    "mood": "dark",
+    "description": "напряженные виолончели низкие духовые тревожный оркестровый саундтрек"
+  },
+  {
+    "track_id": "TRK-008",
+    "split": "train",
+    "producer": "PR_BETA",
+    "category": "cinematic",
+    "mood": "calm",
+    "description": "нежная акустическая гитара камерные струнные лирическая кинотема"
+  },
+  {
+    "track_id": "TRK-009",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "cinematic",
+    "mood": "bright",
+    "description": "эпический оркестр валторны торжественные струнные вдохновляющий финал"
+  },
+  {
+    "track_id": "TRK-010",
+    "split": "train",
+    "producer": "PR_BETA",
+    "category": "techno",
+    "mood": "dark",
+    "description": "индустриальный прямой ритм кислотный синтезатор жесткий клубный бас"
+  },
+  {
+    "track_id": "TRK-011",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "techno",
+    "mood": "calm",
+    "description": "гипнотический пульс минималистичный синтезатор ровный глубокий грув"
+  },
+  {
+    "track_id": "TRK-012",
+    "split": "train",
+    "producer": "PR_BETA",
+    "category": "techno",
+    "mood": "bright",
+    "description": "мелодичный арпеджиатор быстрый темп светлые клавишные танцевальный трек"
+  },
+  {
+    "track_id": "TRK-013",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "folk",
+    "mood": "dark",
+    "description": "низкий резонанс акустической гитары минорный перебор суровая баллада"
+  },
+  {
+    "track_id": "TRK-014",
+    "split": "train",
+    "producer": "PR_BETA",
+    "category": "folk",
+    "mood": "calm",
+    "description": "теплая классическая гитара тихая перкуссия спокойная лесная мелодия"
+  },
+  {
+    "track_id": "TRK-015",
+    "split": "train",
+    "producer": "PR_ALPHA",
+    "category": "folk",
+    "mood": "bright",
+    "description": "звонкое банджо быстрый акустический ритм радостная дорожная тема"
+  },
+  {
+    "track_id": "TRK-016",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "ambient",
+    "mood": "dark",
+    "description": "мрачный синтезатор гулкий космический бас темный атмосферный дрон"
+  },
+  {
+    "track_id": "TRK-017",
+    "split": "validation",
+    "producer": "PR_DELTA",
+    "category": "ambient",
+    "mood": "calm",
+    "description": "спокойный эмбиент мягкое электропиано воздушный пэд для фонового видео"
+  },
+  {
+    "track_id": "TRK-018",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "ambient",
+    "mood": "bright",
+    "description": "светлый синтезатор звонкие колокольчики прозрачный утренний фон"
+  },
+  {
+    "track_id": "TRK-019",
+    "split": "validation",
+    "producer": "PR_DELTA",
+    "category": "hiphop",
+    "mood": "dark",
+    "description": "мрачный бит тяжелый виниловый бас медленный андеграунд ритм"
+  },
+  {
+    "track_id": "TRK-020",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "hiphop",
+    "mood": "calm",
+    "description": "расслабленный лоуфай бит мягкие ударные теплый виниловый треск"
+  },
+  {
+    "track_id": "TRK-021",
+    "split": "validation",
+    "producer": "PR_DELTA",
+    "category": "hiphop",
+    "mood": "bright",
+    "description": "позитивный грув фанковая гитара энергичный бит для влога"
+  },
+  {
+    "track_id": "TRK-022",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "cinematic",
+    "mood": "dark",
+    "description": "тревожный оркестровый саундтрек низкие виолончели мрачный саспенс"
+  },
+  {
+    "track_id": "TRK-023",
+    "split": "validation",
+    "producer": "PR_DELTA",
+    "category": "cinematic",
+    "mood": "calm",
+    "description": "лирическая кинотема нежная акустическая гитара спокойные струнные"
+  },
+  {
+    "track_id": "TRK-024",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "cinematic",
+    "mood": "bright",
+    "description": "вдохновляющий эпический оркестр торжественные духовые и струнные"
+  },
+  {
+    "track_id": "TRK-025",
+    "split": "validation",
+    "producer": "PR_DELTA",
+    "category": "techno",
+    "mood": "dark",
+    "description": "жесткий индустриальный ритм мрачный кислотный бас клубный техно"
+  },
+  {
+    "track_id": "TRK-026",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "techno",
+    "mood": "calm",
+    "description": "минималистичный синтезатор гипнотический ровный пульс глубокий ритм"
+  },
+  {
+    "track_id": "TRK-027",
+    "split": "validation",
+    "producer": "PR_DELTA",
+    "category": "techno",
+    "mood": "bright",
+    "description": "быстрый мелодичный арпеджиатор светлые клавишные энергичный техно"
+  },
+  {
+    "track_id": "TRK-028",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "folk",
+    "mood": "dark",
+    "description": "минорный перебор акустической гитары мрачная северная баллада"
+  },
+  {
+    "track_id": "TRK-029",
+    "split": "validation",
+    "producer": "PR_DELTA",
+    "category": "folk",
+    "mood": "calm",
+    "description": "спокойная классическая гитара мягкая перкуссия теплая мелодия"
+  },
+  {
+    "track_id": "TRK-030",
+    "split": "validation",
+    "producer": "PR_GAMMA",
+    "category": "folk",
+    "mood": "bright",
+    "description": "радостная акустическая тема звонкое банджо быстрый позитивный ритм"
+  },
+  {
+    "track_id": "TRK-031",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "ambient",
+    "mood": "dark",
+    "description": "темный аналоговый гул мрачный космический синтезатор"
+  },
+  {
+    "track_id": "TRK-032",
+    "split": "test",
+    "producer": "PR_ZETA",
+    "category": "ambient",
+    "mood": "calm",
+    "description": "спокойный воздушный пэд мягкое электропиано для сна"
+  },
+  {
+    "track_id": "TRK-033",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "ambient",
+    "mood": "bright",
+    "description": "светлый утренний синтезатор кристальные колокольчики"
+  },
+  {
+    "track_id": "TRK-034",
+    "split": "test",
+    "producer": "PR_ZETA",
+    "category": "hiphop",
+    "mood": "dark",
+    "description": "мрачный медленный бит тяжелый бас виниловый семпл"
+  },
+  {
+    "track_id": "TRK-035",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "hiphop",
+    "mood": "calm",
+    "description": "уютный лоуфай инструментал мягкие ударные теплый бас"
+  },
+  {
+    "track_id": "TRK-036",
+    "split": "test",
+    "producer": "PR_ZETA",
+    "category": "hiphop",
+    "mood": "bright",
+    "description": "энергичный позитивный грув фанковая гитара и ритм"
+  },
+  {
+    "track_id": "TRK-037",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "cinematic",
+    "mood": "dark",
+    "description": "мрачный оркестровый саспенс тревожные виолончели"
+  },
+  {
+    "track_id": "TRK-038",
+    "split": "test",
+    "producer": "PR_ZETA",
+    "category": "cinematic",
+    "mood": "calm",
+    "description": "нежная кинотема акустическая гитара и камерные струнные"
+  },
+  {
+    "track_id": "TRK-039",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "cinematic",
+    "mood": "bright",
+    "description": "торжественный эпический оркестр вдохновляющий финал"
+  },
+  {
+    "track_id": "TRK-040",
+    "split": "test",
+    "producer": "PR_ZETA",
+    "category": "techno",
+    "mood": "dark",
+    "description": "мрачный клубный техно жесткий индустриальный бас"
+  },
+  {
+    "track_id": "TRK-041",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "techno",
+    "mood": "calm",
+    "description": "глубокий ровный пульс минималистичный синтезатор"
+  },
+  {
+    "track_id": "TRK-042",
+    "split": "test",
+    "producer": "PR_ZETA",
+    "category": "techno",
+    "mood": "bright",
+    "description": "быстрый танцевальный техно светлый арпеджиатор"
+  },
+  {
+    "track_id": "TRK-043",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "folk",
+    "mood": "dark",
+    "description": "мрачная баллада низкий резонанс акустической гитары"
+  },
+  {
+    "track_id": "TRK-044",
+    "split": "test",
+    "producer": "PR_ZETA",
+    "category": "folk",
+    "mood": "calm",
+    "description": "теплая спокойная мелодия классическая гитара"
+  },
+  {
+    "track_id": "TRK-045",
+    "split": "test",
+    "producer": "PR_EPSILON",
+    "category": "folk",
+    "mood": "bright",
+    "description": "радостный быстрый ритм звонкое банджо"
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "query_id": "Q-01",
+    "segment": "literal",
+    "query": "мрачный синтезатор бас",
+    "target": "ambient / dark",
+    "retrieved_ids": [
+      "TRK-016",
+      "TRK-019",
+      "TRK-025"
+    ],
+    "scores": [
+      0.692993,
+      0.412033,
+      0.412033
+    ],
+    "grades": [
+      2,
+      1,
+      1
+    ],
+    "ndcg_at_3": 1.0,
+    "recall_at_3": 1.0
+  },
+  {
+    "query_id": "Q-02",
+    "segment": "literal",
+    "query": "расслабленный лоуфай бит",
+    "target": "hiphop / calm",
+    "retrieved_ids": [
+      "TRK-020",
+      "TRK-019",
+      "TRK-021"
+    ],
+    "scores": [
+      0.622011,
+      0.238747,
+      0.229034
+    ],
+    "grades": [
+      2,
+      1,
+      1
+    ],
+    "ndcg_at_3": 1.0,
+    "recall_at_3": 1.0
+  },
+  {
+    "query_id": "Q-03",
+    "segment": "literal",
+    "query": "тревожный оркестровый саундтрек",
+    "target": "cinematic / dark",
+    "retrieved_ids": [
+      "TRK-022"
+    ],
+    "scores": [
+      0.722064
+    ],
+    "grades": [
+      2
+    ],
+    "ndcg_at_3": 0.7262,
+    "recall_at_3": 1.0
+  },
+  {
+    "query_id": "Q-04",
+    "segment": "literal",
+    "query": "быстрый мелодичный арпеджиатор",
+    "target": "techno / bright",
+    "retrieved_ids": [
+      "TRK-027",
+      "TRK-030"
+    ],
+    "scores": [
+      0.691826,
+      0.168771
+    ],
+    "grades": [
+      2,
+      1
+    ],
+    "ndcg_at_3": 0.879,
+    "recall_at_3": 1.0
+  },
+  {
+    "query_id": "Q-05",
+    "segment": "literal",
+    "query": "звонкое банджо радостная",
+    "target": "folk / bright",
+    "retrieved_ids": [
+      "TRK-030"
+    ],
+    "scores": [
+      0.643381
+    ],
+    "grades": [
+      2
+    ],
+    "ndcg_at_3": 0.7262,
+    "recall_at_3": 1.0
+  },
+  {
+    "query_id": "Q-06",
+    "segment": "literal",
+    "query": "спокойный эмбиент электропиано",
+    "target": "ambient / calm",
+    "retrieved_ids": [
+      "TRK-017"
+    ],
+    "scores": [
+      0.654654
+    ],
+    "grades": [
+      2
+    ],
+    "ndcg_at_3": 0.7262,
+    "recall_at_3": 1.0
+  },
+  {
+    "query_id": "Q-07",
+    "segment": "literal",
+    "query": "нежная акустическая гитара кинотема",
+    "target": "cinematic / calm",
+    "retrieved_ids": [
+      "TRK-023",
+      "TRK-030",
+      "TRK-029"
+    ],
+    "scores": [
+      0.820015,
+      0.195761,
+      0.133724
+    ],
+    "grades": [
+      2,
+      0,
+      1
+    ],
+    "ndcg_at_3": 0.8473,
+    "recall_at_3": 1.0
+  },
+  {
+    "query_id": "Q-08",
+    "segment": "synonym",
+    "query": "тягучий подклад хоррор",
+    "target": "ambient / dark",
+    "retrieved_ids": [],
+    "scores": [],
+    "grades": [],
+    "ndcg_at_3": 0.0,
+    "recall_at_3": 0.0
+  },
+  {
+    "query_id": "Q-09",
+    "segment": "synonym",
+    "query": "чилл кач релакс",
+    "target": "hiphop / calm",
+    "retrieved_ids": [],
+    "scores": [],
+    "grades": [],
+    "ndcg_at_3": 0.0,
+    "recall_at_3": 0.0
+  },
+  {
+    "query_id": "Q-10",
+    "segment": "synonym",
+    "query": "напряжение триллер симфония",
+    "target": "cinematic / dark",
+    "retrieved_ids": [],
+    "scores": [],
+    "grades": [],
+    "ndcg_at_3": 0.0,
+    "recall_at_3": 0.0
+  },
+  {
+    "query_id": "Q-11",
+    "segment": "synonym",
+    "query": "драйв танцпол синт",
+    "target": "techno / bright",
+    "retrieved_ids": [],
+    "scores": [],
+    "grades": [],
+    "ndcg_at_3": 0.0,
+    "recall_at_3": 0.0
+  },
+  {
+    "query_id": "Q-12",
+    "segment": "synonym",
+    "query": "кантри веселый перебор",
+    "target": "folk / bright",
+    "retrieved_ids": [
+      "TRK-028"
+    ],
+    "scores": [
+      0.447214
+    ],
+    "grades": [
+      1
+    ],
+    "ndcg_at_3": 0.2421,
+    "recall_at_3": 0.0
+  },
+  {
+    "query_id": "Q-13",
+    "segment": "synonym",
+    "query": "медитативный родес тишина",
+    "target": "ambient / calm",
+    "retrieved_ids": [],
+    "scores": [],
+    "grades": [],
+    "ndcg_at_3": 0.0,
+    "recall_at_3": 0.0
+  },
+  {
+    "query_id": "Q-14",
+    "segment": "synonym",
+    "query": "драма мелодрама пиццикато",
+    "target": "cinematic / calm",
+    "retrieved_ids": [],
+    "scores": [],
+    "grades": [],
+    "ndcg_at_3": 0.0,
+    "recall_at_3": 0.0
+  }
+]

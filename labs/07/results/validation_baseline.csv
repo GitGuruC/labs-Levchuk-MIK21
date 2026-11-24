@@ -1,0 +1,4 @@
+segment,queries_count,mean_ndcg_at_3,mean_recall_at_3
+literal,7,0.8436,1.0
+synonym,7,0.0346,0.0
+all,14,0.4391,0.5

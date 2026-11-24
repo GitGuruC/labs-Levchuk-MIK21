@@ -1,0 +1,13 @@
+{
+  "python_version": "3.12.0",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "config_hash": "73456d8df6677611",
+  "config": {
+    "dataset_version": "1.0-audio-assets",
+    "random_seed": 42,
+    "top_k": 3,
+    "feature_field": "description",
+    "idf_formula": "log((1 + N) / (1 + df)) + 1",
+    "tie_breaker": "track_id_asc"
+  }
+}
